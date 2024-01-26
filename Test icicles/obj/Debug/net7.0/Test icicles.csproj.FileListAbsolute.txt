@@ -1,0 +1,6 @@
+C:\Users\1118422\RiderProjects\Structures\Test icicles\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\1118422\RiderProjects\Structures\Test icicles\obj\Debug\net7.0\Test icicles.csproj.AssemblyReference.cache
+C:\Users\1118422\RiderProjects\Structures\Test icicles\obj\Debug\net7.0\Test icicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1118422\RiderProjects\Structures\Test icicles\obj\Debug\net7.0\Test icicles.AssemblyInfoInputs.cache
+C:\Users\1118422\RiderProjects\Structures\Test icicles\obj\Debug\net7.0\Test icicles.AssemblyInfo.cs
+C:\Users\1118422\RiderProjects\Structures\Test icicles\obj\Debug\net7.0\Test icicles.csproj.CoreCompileInputs.cache

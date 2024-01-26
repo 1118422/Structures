@@ -1,0 +1,14 @@
+C:\Users\1118422\RiderProjects\Structures\Structures\bin\Debug\net7.0\Structures.exe
+C:\Users\1118422\RiderProjects\Structures\Structures\bin\Debug\net7.0\Structures.deps.json
+C:\Users\1118422\RiderProjects\Structures\Structures\bin\Debug\net7.0\Structures.runtimeconfig.json
+C:\Users\1118422\RiderProjects\Structures\Structures\bin\Debug\net7.0\Structures.dll
+C:\Users\1118422\RiderProjects\Structures\Structures\bin\Debug\net7.0\Structures.pdb
+C:\Users\1118422\RiderProjects\Structures\Structures\obj\Debug\net7.0\Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1118422\RiderProjects\Structures\Structures\obj\Debug\net7.0\Structures.AssemblyInfoInputs.cache
+C:\Users\1118422\RiderProjects\Structures\Structures\obj\Debug\net7.0\Structures.AssemblyInfo.cs
+C:\Users\1118422\RiderProjects\Structures\Structures\obj\Debug\net7.0\Structures.csproj.CoreCompileInputs.cache
+C:\Users\1118422\RiderProjects\Structures\Structures\obj\Debug\net7.0\Structures.dll
+C:\Users\1118422\RiderProjects\Structures\Structures\obj\Debug\net7.0\refint\Structures.dll
+C:\Users\1118422\RiderProjects\Structures\Structures\obj\Debug\net7.0\Structures.pdb
+C:\Users\1118422\RiderProjects\Structures\Structures\obj\Debug\net7.0\Structures.genruntimeconfig.cache
+C:\Users\1118422\RiderProjects\Structures\Structures\obj\Debug\net7.0\ref\Structures.dll
